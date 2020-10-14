@@ -1,5 +1,7 @@
 package com.poddubchak.education.docker;
 
+import java.util.Collection;
+
 /**
  * Created by @author Vladimir Poddubchak @date 17.09.2020.
  */
